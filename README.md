@@ -37,16 +37,16 @@ GIFs are saved to `gifs/` (created automatically if missing).
 
 ### Base Model
 
-Door at `[8, 0]`:
+Door at `[8, 0]` (Bad placement):
 
 ![Base model door 8,0](gifs/example_furnished_8_0.gif)
 
-Door at `[0, 10]`:
+Door at `[0, 10]` (Good placement):
 
 ![Base model door 0,10](gifs/example_furnished_0_10.gif)
 
 ### Expanded Model
 
-Example expanded simulation:
+Example expanded simulation which showcases panic as the cause of exit blockage:
 
 ![Expanded model simulation](gifs/sim3.gif)
