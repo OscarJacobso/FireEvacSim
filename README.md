@@ -11,6 +11,7 @@ The workspace includes two simulation variants:
 - `BaseModel.py` - baseline simulation and plotting.
 - `ExpandedModel.py` - expanded simulation with person state dynamics.
 - `gifs/` - generated simulation animations.
+- `Project pdf/` - Written project report.
 - `README.md` - project documentation.
 
 ## Setup
